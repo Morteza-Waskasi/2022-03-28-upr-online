@@ -17,6 +17,7 @@ instructor: ["Morteza Waskasi", "Geraldine Klarenberg"] # boxed, comma-separated
 helper: ["TBD","TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["amarkee@floridamuseum.ufl.edu","Morteza.Waskasi@gmail.com","gklarenberg@ufl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["amarkee@floridamuseum.ufl.edu","Morteza.Waskasi@gmail.com","gklarenberg@ufl.edu"]
 collaborative_notes: https://pad.carpentries.org/2022-04-11-ufl--online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+Registration : https://informatics.research.ufl.edu/registration-uf-carpentries-club-shell-git-plotting-programming-in-python/
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
